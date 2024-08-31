@@ -3,7 +3,7 @@
 	width: 100px;
 	height: 100px;
 	background-color: red;
-	animation : anm  1s ease-in-out infinite;
+	animation : pulse  1s ease-in-out infinite;
 }
 
 @keyframes anm {
